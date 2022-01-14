@@ -3,14 +3,23 @@ A repository containing materials for learning web development contributed by me
 
 Currently in Progress
 
-* Tiers
-  * [Beginner](#Beginner)
-    * [Front-End](#Front-End)
-    * [Back-End](#Back-End)
-    * [Database](#Database)
-  * [Intermediate](#Intermediate)
-    * [Back-End](#Back-End-1)
-  * [Advanced](#Advanced)
+* Topics
+  * [Web Development](#Web Development)
+  * [App Development](#Beginner)
+    * Multi-Platform
+      * Fluttr
+      * React Native
+    * [IOS Development](#IOS Development)
+      * Swift
+        * [Hacking with Swift](https://www.hackingwithswift.com/) - Website built up of articles about swift and lessons on how to learn Swift and SwiftUI.
+        * [Free Stanford Swift Class](https://www.youtube.com/watch?v=bqu6BquVi2M&list=PLpGHT1n4-mAsxuRxVPv7kj4-dQYoC3VVu) - Stanford class on Intro to Swift, all class lectures are posted on youtube.
+    * [Android Development](#Android Development)
+      * Kotlin
+      * Java
+  * [Game Developmment](#Game Development)
+  * [Data Science](#Data Science)
+  * [Artificial Intelligence](#Artificial Intelligence)
+  * [Professional Skills](#Professional Skills)
 
 ----
 
